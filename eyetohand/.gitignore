@@ -1,0 +1,4 @@
+__pycache__/
+output_baxter_*/
+[0-9]*/
+grasp_baxter_*/
